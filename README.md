@@ -1,8 +1,11 @@
-<!doctype=html>
+
 <h1>read me.md</h1>
 <a herf="inusoftbg.github.io">inusoftBG.github.io</a>
+<br>
 <a herf="inusoftbgjs.github.io">inusoftBGjs.github.io</a>
+<br>
 this is a web
+<br>
 and, im inusoftBG
 
 
