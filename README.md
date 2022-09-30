@@ -1,5 +1,4 @@
-
-<h1>read me.md</h1>
+<!DOCTYPE html>
 <a herf="inusoftbg.github.io">inusoftBG.github.io</a>
 <br>
 <a herf="inusoftbgjs.github.io">inusoftBGjs.github.io</a>
@@ -7,6 +6,10 @@
 this is a web
 <br>
 and, im inusoftBG
+<br>
+<h1>sub me!!!!!!!!!!!</h1>
+<br>
+:D
 
 
 
@@ -100,4 +103,4 @@ and, im inusoftBG
 
 
 
-<h1>owo</h1>
+
